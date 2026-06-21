@@ -1,0 +1,11 @@
+scikit-learn==1.9.0
+matplotlib==3.11.0
+pandas==3.0.3
+pillow==12.2.0
+scipy==1.18.0
+statsmodels==0.14.6
+joblib==1.5.3
+imbalanced-learn==0.14.2
+ollama==0.6.2
+chardet==7.4.3
+tqdm==4.68.3
