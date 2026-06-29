@@ -3,7 +3,6 @@ import json
 import time
 import uuid
 import requests
-import subprocess
 from pathlib import Path
 from PIL import Image
 
